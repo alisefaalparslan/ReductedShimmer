@@ -13,7 +13,7 @@ Before SwiftUI, UIKit developers commonly relied on libraries like [SkeletonView
 ](https://github.com/facebookarchive/Shimmer/tree/master) to achieve similar effects. ReductedShimmer is the best native SwiftUI alternative, providing the same functionality but with a declarative, SwiftUI-first approach.
 
 
-![Light Mode](docs/light-mode.mp4) ![Dark Mode](docs/dark-mode.mp4)
+![Light Mode](docs/light-mode.gif) ![Dark Mode](docs/dark-mode.gif)
 
 ## Usage
 
