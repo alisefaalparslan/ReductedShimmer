@@ -137,7 +137,15 @@ You can supply any custom animation:
 
 ```
 dependencies: [
-    .package(url: "https://github.com/yourusername/ShimmerEffect.git", from: "1.0.0")
+    .package(url: "https://github.com/alisefaalparslan/ReductedShimmer", from: "1.0.0")
 ]
 ```
 
+## ☕ Support Me
+
+### Cryptocurrency Donations
+You can support me by sending cryptocurrency to the following addresses:
+
+Etherium Main Network (ETH, USDT, USDC)
+
+0x26Aa24365ab34447888c5Eb4bA6CB814e0C740d3
